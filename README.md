@@ -11,5 +11,8 @@ Para usar o app:
 - inclianando o dispositivo móvel para trás faz com que o projeto ande para trás;
 - inclianando o dispositivo móvel para direita faz com que o projeto ande para direita;
 - inclianando o dispositivo móvel para esquerda faz com que o projeto ande para esquerda;
+- o campo de mensagem serve apenas para testes de envio de mensagens bluetooth, então se
+tiver modificado algo no projeto ou quiser uma função a mais no projeto pode usar ele, caso
+contrário só ignora-lo e fazer os movimentos com o celular que o projeto vai funcionar normalmente.
 
 Qualquer dúvida pode entrar em contado comigo!!
